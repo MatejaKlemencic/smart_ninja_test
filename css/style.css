@@ -3,12 +3,13 @@
 .neki
 {
 background-color:lightblue;
+border: 1px solid red;
 }
 
+}
 
-.col-md-4
+.deli
 {
-
-
+border: 1px solid blue;
 }
 
